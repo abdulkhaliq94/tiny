@@ -11,7 +11,7 @@ $ npm install @abdulkhaliq94/tiny
 ```
 ## Usage
 ```js
-const tiny = require("@bamblehorse/tiny");
+const tiny = require("@abdulkhaliq94/tiny");
 
 tiny("So much space!");
 //=> "Somuchspace!"
